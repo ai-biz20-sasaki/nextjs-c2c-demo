@@ -1,3 +1,10 @@
+下記のサンプルサイトは next.jsのPages Routerを使用しているので、
+https://github.com/gihyo-book/ts-nextbook-app
+
+next.js公式サイトに記載された下記の方法に従って、App Routerにマイグレートしました。
+https://nextjs.org/docs/app/building-your-application/upgrading/app-router-migration
+
+---
 ## TypeScriptとReact/Next.jsでつくる実践Webアプリケーション
 
 「[TypeScriptとReact/Next.jsでつくる実践Webアプリケーション](https://gihyo.jp/book/2022/978-4-297-12916-3)」のサンプルアプリ
